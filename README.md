@@ -1,6 +1,6 @@
 # Laravel 10 One to Many Eloquent Relationship
 
-Hi Viewers, In this example you can see the source code of One to Many Eloquent Relationship in Laravel 10
+This repository provides an example of a One-to-Many Eloquent relationship implemented in Laravel 10.
 
 ## Getting Started
 
